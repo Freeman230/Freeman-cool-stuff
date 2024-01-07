@@ -1,0 +1,1 @@
+resource.AddFile( "materials/vgui/entities/ultimatedeagle.vmt" )
