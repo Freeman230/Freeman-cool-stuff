@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\fnp90\lens2"
+	"$envmap" "env_cubemap"
+	"%compilewater" 1
+	"$surfaceprop" "water"
+	"$additive" "1"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+	"$normalmapalphaenvmapmask" 1
+	"$selfillum" 1
+}

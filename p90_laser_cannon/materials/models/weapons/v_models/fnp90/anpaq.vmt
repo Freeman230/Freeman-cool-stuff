@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "\models\weapons\v_models\fnp90\anpaq"
+	"$envmapmask" "models/weapons/v_models/fnp90/anpaq_ref"
+	"$bumpmap" "\models\weapons\v_models\fnp90\anpaq_norm"
+	"$nocull" "1"
+	"$normalmapalphaenvmapmask" 1
+}
